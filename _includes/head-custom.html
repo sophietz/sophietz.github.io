@@ -19,6 +19,10 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   
+  const readArticle1Button = document.getElementById("read-article-1")
+
+  if(readArticle1Button){
+
   //Skickar event på artikel 1
   document.getElementById("read-article-1").addEventListener("click", () => {
 
@@ -39,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     sendReadEvent("Article 3", 150)
 
   });
+}
      
   })
   
