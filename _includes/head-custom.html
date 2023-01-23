@@ -7,3 +7,40 @@
 
   gtag('config', 'G-CJHY0YMQYZ');
 </script>
+
+<script>
+  function sendReadEvent(title, number_of_characters){
+   gtag('event','read_article', {
+        "author":"Sophie",
+        "title":title,
+        "number_of_characters":number_of_characters,
+    });
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  
+  //Skickar event på artikel 1
+  document.getElementById("read-article-1").addEventListener("click", () => {
+
+    sendReadEvent("Article 1", 50)
+
+  });
+
+    //Skickar event på artikel 2
+  document.getElementById("read-article-2").addEventListener("click", () => {
+
+    sendReadEvent("Article 2", 100)
+
+  });
+
+    //Skickar event på artikel 3
+  document.getElementById("read-article-3").addEventListener("click", () => {
+
+    sendReadEvent("Article 3", 150)
+
+  });
+     
+  })
+  
+  console.log("2023-02-23")
+</script>
