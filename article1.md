@@ -10,7 +10,7 @@ Donec felis orci, finibus eget fringilla ut, blandit suscipit metus. Mauris tinc
 
 Aenean a erat rhoncus, sodales ligula et, vehicula lacus. Quisque sodales dui metus, non tempor neque imperdiet et. Etiam vestibulum tellus id tempus pharetra. Etiam sed consectetur tortor. Cras vel efficitur erat. Nunc hendrerit commodo enim, eget rhoncus augue porttitor in. Etiam dapibus molestie metus, eu gravida sapien suscipit vel. Proin sollicitudin erat eget magna dapibus vestibulum. Integer venenatis ut massa sit amet sollicitudin. In rhoncus vel neque a ultricies. Suspendisse pulvinar leo ut efficitur posuere. Quisque a semper tellus. Maecenas non urna et dui feugiat euismod. Aliquam sapien enim, ultricies sit amet egestas in, porttitor rutrum mauris. In hac habitasse platea dictumst. Mauris massa felis, accumsan et turpis id, blandit sodales diam.
 
-<button> Läst klart </button>
+<button id=btn> Läst klart </button>
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
