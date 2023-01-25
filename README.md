@@ -11,3 +11,5 @@ Welcome to my site! I am so glad you stopped by. My name is Sophie Zander and I 
 [Thanks](/thank-you)
 
 [Purchase Complete](/purchase-complete)
+
+[Tenta Article](/tenta-article)
