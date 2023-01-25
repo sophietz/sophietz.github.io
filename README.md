@@ -7,3 +7,5 @@ Welcome to my site! I am so glad you stopped by. My name is Sophie Zander and I 
 [Read more](/read-more)
 
 [Articles](/articles)
+
+[Thanks](/thank-you)
