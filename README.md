@@ -12,4 +12,4 @@ Welcome to my site! I am so glad you stopped by. My name is Sophie Zander and I 
 
 [Purchase Complete](/purchase-complete)
 
-[Tenta Article](/tenta-article)
+[Tenta Articles](/tenta-articles)
