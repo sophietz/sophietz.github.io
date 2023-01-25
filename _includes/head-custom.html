@@ -11,6 +11,70 @@
 
 
 <script>
+function sendReadingTime(title, reading_time_minutes){
+   gtag('event','read_article', {
+   "author":"Sophie",
+   "title": title,
+   "reading_time_minutes":reading_time_minutes,
+   });
+}
+
+    document.addEventListener("DOMContentLoaded", () => {
+       
+        const readTentaArticle1 = document.getElementById("tenta-article-1")
+
+        if(readTentaArticle1){
+
+            readTentaArticle1.addEventListener("click", () =>{
+                sendReadingTime("Tenta Article 1", 5)
+            });
+
+            document.getElementById("tenta-article-2").addEventListener("click", () => {
+                sendReadingTime("Tenta Article 2", 10)
+            });
+
+            document.getElementById("tenta-article-3").addEventListener("click", () => {
+                sendReadingTime("Tenta Article 3", 15)
+            });
+
+            document.getElementById("tenta-article-4").addEventListener("click", () => {
+                sendReadingTime("Tenta Article 4", 20)
+            }); 
+
+        }
+
+    })
+
+
+ console.log("2023-02-25")
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Lektionsmaterial
+
+
+<script>
  function sendReadEvent(title, number_of_characters){
    gtag('event','read_article', {
         "author": "Sophie",
