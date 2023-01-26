@@ -1,6 +1,6 @@
 # Tenta Articles
 
-## Tenta Article 1
+## Artikel 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu porttitor dui. Nullam ac mi quis orci varius blandit. Nullam accumsan ut augue in lacinia. Vestibulum commodo, neque a accumsan vehicula, ipsum sem molestie neque, eu laoreet sapien mauris quis justo. Curabitur quis rutrum orci. Ut ornare fermentum purus, at cursus turpis facilisis quis. Ut accumsan aliquet massa, sed ullamcorper leo feugiat eu. Suspendisse potenti. Mauris porttitor sapien at dolor accumsan, eget eleifend elit tempus. Mauris congue nec lorem at facilisis.
 
 Proin feugiat mauris eu purus vulputate aliquam. Phasellus luctus ligula placerat lectus fringilla, ac vulputate arcu dignissim. Donec vulputate tempor massa, id interdum sem feugiat nec. Aliquam tempor eleifend augue placerat volutpat. Cras consectetur maximus fringilla. Suspendisse egestas enim metus, eget porta felis tincidunt non. Fusce pretium elit vitae porta interdum. Vestibulum eget mi id arcu interdum condimentum vitae non enim.
@@ -12,7 +12,7 @@ Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet 
 <button id="tenta-article-1"> Läst artikeln </button>
 
 
-## Tenta Article 2
+## Artikel 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu porttitor dui. Nullam ac mi quis orci varius blandit. Nullam accumsan ut augue in lacinia. Vestibulum commodo, neque a accumsan vehicula, ipsum sem molestie neque, eu laoreet sapien mauris quis justo. Curabitur quis rutrum orci. Ut ornare fermentum purus, at cursus turpis facilisis quis. Ut accumsan aliquet massa, sed ullamcorper leo feugiat eu. Suspendisse potenti. Mauris porttitor sapien at dolor accumsan, eget eleifend elit tempus. Mauris congue nec lorem at facilisis.
 
 Proin feugiat mauris eu purus vulputate aliquam. Phasellus luctus ligula placerat lectus fringilla, ac vulputate arcu dignissim. Donec vulputate tempor massa, id interdum sem feugiat nec. Aliquam tempor eleifend augue placerat volutpat. Cras consectetur maximus fringilla. Suspendisse egestas enim metus, eget porta felis tincidunt non. Fusce pretium elit vitae porta interdum. Vestibulum eget mi id arcu interdum condimentum vitae non enim.
@@ -26,7 +26,7 @@ Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet 
 <button id="tenta-article-2"> Läst artikeln </button>
 
 
-## Tenta Article 3
+## Artikel 3
 
 Proin feugiat mauris eu purus vulputate aliquam. Phasellus luctus ligula placerat lectus fringilla, ac vulputate arcu dignissim. Donec vulputate tempor massa, id interdum sem feugiat nec. Aliquam tempor eleifend augue placerat volutpat. Cras consectetur maximus fringilla. Suspendisse egestas enim metus, eget porta felis tincidunt non. Fusce pretium elit vitae porta interdum. Vestibulum eget mi id arcu interdum condimentum vitae non enim.
 
@@ -39,7 +39,7 @@ Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet 
 <button id="tenta-article-3"> Läst artikeln </button>
 
 
-## Tenta Article 
+## Artikel 4 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu porttitor dui. Nullam ac mi quis orci varius blandit. Nullam accumsan ut augue in lacinia. Vestibulum commodo, neque a accumsan vehicula, ipsum sem molestie neque, eu laoreet sapien mauris quis justo. Curabitur quis rutrum orci. Ut ornare fermentum purus, at cursus turpis facilisis quis. Ut accumsan aliquet massa, sed ullamcorper leo feugiat eu. Suspendisse potenti. Mauris porttitor sapien at dolor accumsan, eget eleifend elit tempus. Mauris congue nec lorem at facilisis.
 
 Proin feugiat mauris eu purus vulputate aliquam. Phasellus luctus ligula placerat lectus fringilla, ac vulputate arcu dignissim. Donec vulputate tempor massa, id interdum sem feugiat nec. Aliquam tempor eleifend augue placerat volutpat. Cras consectetur maximus fringilla. Suspendisse egestas enim metus, eget porta felis tincidunt non. Fusce pretium elit vitae porta interdum. Vestibulum eget mi id arcu interdum condimentum vitae non enim.
