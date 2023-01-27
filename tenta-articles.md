@@ -10,6 +10,7 @@ Aliquam velit lacus, maximus eu odio nec, bibendum condimentum neque. Nam conval
 Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet gravida quam. Cras quis nisi posuere, ultricies urna eu, eleifend quam. Praesent non neque non ligula lobortis malesuada at ac ex. Integer rhoncus ornare justo, quis elementum erat. Praesent quis porta neque, eu volutpat nulla. Ut ut malesuada enim. Integer risus nisl, accumsan eu velit vitae, ullamcorper imperdiet arcu.
 
 <button id="tenta-article-1"> Läst artikeln </button>
+
 <button id="order1"> Beställ </button>
 
 
@@ -25,6 +26,7 @@ Praesent sed rhoncus quam, a tristique elit. Phasellus nec dictum orci, ac rhonc
 Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet gravida quam. Cras quis nisi posuere, ultricies urna eu, eleifend quam. Praesent non neque non ligula lobortis malesuada at ac ex. Integer rhoncus ornare justo, quis elementum erat. Praesent quis porta neque, eu volutpat nulla. Ut ut malesuada enim. Integer risus nisl, accumsan eu velit vitae, ullamcorper imperdiet arcu.
 
 <button id="tenta-article-2"> Läst artikeln </button>
+
 <button id="order2"> Beställ </button>
 
 
@@ -39,6 +41,7 @@ Aliquam velit lacus, maximus eu odio nec, bibendum condimentum neque. Nam conval
 Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet gravida quam. Cras quis nisi posuere, ultricies urna eu, eleifend quam. Praesent non neque non ligula lobortis malesuada at ac ex. Integer rhoncus ornare justo, quis elementum erat. Praesent quis porta neque, eu volutpat nulla. Ut ut malesuada enim. Integer risus nisl, accumsan eu velit vitae, ullamcorper imperdiet arcu.
 
 <button id="tenta-article-3"> Läst artikeln </button>
+
 <button id="order3"> Beställ </button>
 
 
@@ -54,4 +57,5 @@ Aliquam velit lacus, maximus eu odio nec, bibendum condimentum neque. Nam conval
 Aenean ac iaculis enim. Proin rutrum hendrerit sem eu aliquam. Aliquam sit amet gravida quam. Cras quis nisi posuere, ultricies urna eu, eleifend quam. Praesent non neque non ligula lobortis malesuada at ac ex. Integer rhoncus ornare justo, quis elementum erat. Praesent quis porta neque, eu volutpat nulla. Ut ut malesuada enim. Integer risus nisl, accumsan eu velit vitae, ullamcorper imperdiet arcu.
 
 <button id="tenta-article-4"> Läst artikeln </button>
+
 <button id="order4"> Beställ </button>
